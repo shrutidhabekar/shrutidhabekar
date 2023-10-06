@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti</h1>
-<h3 align="center">Im a Fintech , Blockchain & technical management ninja </h3>
+<h3 align="center">I'm a Fintech , Blockchain & technical management ninja </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 
