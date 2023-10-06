@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shruti</h1>
 <h3 align="center">I'm a Fintech , Blockchain & technical management ninja </h3>
-<img align="right" alt="Coding" width="400" src="[[https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif](https://tenor.com/view/programming-gif-25868426)](https://tenor.com/view/programming-gif-25868426)">
+<img align="right" alt="Coding" width="400" src="[[[https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif](https://tenor.com/view/programming-gif-25868426)](https://tenor.com/view/programming-gif-25868426)](https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutidhabekar&label=Profile%20views&color=0e75b6&style=flat" alt="shrutidhabekar" /> </p>
