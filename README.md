@@ -3,19 +3,19 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lraunakl&label=Profile%20views&color=0e75b6&style=flat" alt="lraunakl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutidhabekar&label=Profile%20views&color=0e75b6&style=flat" alt="shrutidhabekar" /> </p>
 
-- 🔭 I’m currently working on **Avalanche,Ethereum & Polygon Chain**
+- 🔭 I’m currently working on **Coding, Digital Marketing & Blockchain**
 
-- 🌱 I’m currently learning **Solidity , Moralis**
+- 🌱 I’m currently learning **Data Science & AI**
 
 - 👯 I’m looking to collaborate on **Blockchains**
 
-- 🤝 I’m looking for help with **IDO LaunchPads & Flashloan Arbitrage**
+- 🤝 I’m looking for help with **Fintech**
 
-- 💬 Ask me about **Solidity , Blockchains**
+- 💬 Ask me about **Coding & Blockchains**
 
-- 📫 How to reach me **raunak.dhabekar1998@gmail.com**
+- 📫 How to reach me **shruti.dhabekar1112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
