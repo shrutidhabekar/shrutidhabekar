@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Coding, Digital Marketing & Blockchain**
 
-- 🌱 I’m currently learning **Data Science & AI**
+- 🌱 I’m currently learning **Data Science & Analytics & AI**
 
 - 👯 I’m looking to collaborate on **Blockchains**
 
